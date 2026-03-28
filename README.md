@@ -31,9 +31,12 @@
 * [x] Two Sum
 
 ---
-🧠 Learning Notes
-Learned brute force approach
-Next: Hash Maps 🔥
+
+## 🧠 Learning Notes
+
+* Learned brute force approach
+* Next: Hash Maps 🔥
+
 
 ---
 ## 📅 Daily Log

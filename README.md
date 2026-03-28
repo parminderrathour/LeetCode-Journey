@@ -11,7 +11,7 @@
 
 ---
 
-## 📊 Progress
+
 ## 📊 Progress
 
 | Topic        | Problems Solved |

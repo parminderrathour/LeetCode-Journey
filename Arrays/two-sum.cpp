@@ -1,10 +1,13 @@
+// Problem: 1. Two Sum
+// Link: https://leetcode.com/problems/two-sum/
+// Category: Arrays, Hash Map
+// Difficulty: Easy
+// Time: O(n), Space: O(n)
+
+
 #include <iostream>
 #include <vector>
 using namespace std;
-
-// Approach: Brute Force
-// Time Complexity: O(n^2)
-// Space Complexity: O(1)
 
 class Solution {
 public:

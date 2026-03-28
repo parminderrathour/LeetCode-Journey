@@ -32,13 +32,5 @@
 
 ---
 
-## 📘 Problem Details
-
-### 🟢 Two Sum
-- Difficulty: Easy  
-- Approach: Brute Force  
-- Time Complexity: O(n²)  
-- Space Complexity: O(1)
-
 ## 📅 Daily Log
 - Day 1: Two Sum ✅

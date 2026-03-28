@@ -1,7 +1,6 @@
 # 🚀 LeetCode Journey
 ![GitHub last commit](https://img.shields.io/github/last-commit/parminderrathour/LeetCode-Journey)
 ![GitHub repo size](https://img.shields.io/github/repo-size/parminderrathour/LeetCode-Journey)
-![GitHub stars](https://img.shields.io/github/stars/parminderrathour/LeetCode-Journey)
 
 ## 👨‍💻 About Me
 

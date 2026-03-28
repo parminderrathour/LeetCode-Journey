@@ -12,7 +12,14 @@
 ---
 
 ## 📊 Progress
+## 📊 Progress
 
+| Topic        | Problems Solved |
+|-------------|----------------|
+| Arrays      | 1              |
+| Strings     | 0              |
+| Linked List | 0              |
+| Trees       | 0              |
 * ✅ Problems Solved: 1
 * 🔥 Current Streak: 1 Day
 

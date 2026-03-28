@@ -33,6 +33,14 @@
 
 ---
 
+## 📘 Problem Details
+
+### 🟢 Two Sum
+- Difficulty: Easy  
+- Approach: Brute Force  
+- Time Complexity: O(n²)  
+- Space Complexity: O(1)
+  
 ## 🧠 Learning Notes
 
 * Learned brute force approach

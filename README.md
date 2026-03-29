@@ -33,11 +33,18 @@
 
 ---
 
-## 🧠 Learning Notes
+## 💡 Learning Notes
 
-* Learned brute force approach
-* Next: Hash Maps 🔥
+### Problem 1: Two Sum
+- Learned brute force approach using nested loops
+- Understood how hash maps can optimize to O(n)
 
+### Problem 2: Longest Common Prefix
+- Learned how to compare characters across multiple strings
+- Understood importance of stopping when mismatch occurs
+- Improved understanding of nested loops and string indexing
+
+👉 Next: Hash Maps 🔥
 
 ---
 ## 📅 Daily Log

@@ -1,3 +1,12 @@
+// Problem: 14. Longest Common Prefix
+// Link: https://leetcode.com/problems/longest-common-prefix/
+// Category: Arrays, Strings
+// Difficulty: Easy
+// Approach: Character by character comparison
+// Time Complexity: O(n * m)
+// Space Complexity: O(1)
+
+
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {

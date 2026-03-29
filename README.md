@@ -15,7 +15,7 @@
 
 | Topic        | Problems Solved |
 |-------------|----------------|
-| Arrays      | 1              |
+| Arrays      | 2              |
 | Strings     | 0              |
 | Linked List | 0              |
 | Trees       | 0              |
@@ -29,6 +29,7 @@
 ### Arrays
 
 * [x] Two Sum
+* [x] Longest Common Prefix
 
 ---
 
@@ -41,3 +42,4 @@
 ---
 ## 📅 Daily Log
 - Day 1: Two Sum ✅
+- Day 2: Longest Common Prefix ✅

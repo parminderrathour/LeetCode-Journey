@@ -19,8 +19,8 @@
 | Strings     | 0              |
 | Linked List | 0              |
 | Trees       | 0              |
-* ✅ Problems Solved: 1
-* 🔥 Current Streak: 1 Day
+* ✅ Problems Solved: 2
+* 🔥 Current Streak: 2 Day
 
 ---
 

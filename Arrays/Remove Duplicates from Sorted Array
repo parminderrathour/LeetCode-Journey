@@ -1,10 +1,12 @@
-// Problem: 26. Remove Duplicates from Sorted Array
-// Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-// Category: Arrays, Two Pointers
-// Difficulty: Easy
-// Approach: Two-pointer technique (slow & fast pointer)
-// Time Complexity: O(n)
-// Space Complexity: O(1)
+/* 
+Problem: 26. Remove Duplicates from Sorted Array
+Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+Category: Arrays, Two Pointers
+Difficulty: Easy
+Approach: Two-pointer technique
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
 
 class Solution {
 public:

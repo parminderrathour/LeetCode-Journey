@@ -15,12 +15,12 @@
 
 | Topic        | Problems Solved |
 |-------------|----------------|
-| Arrays      | 2              |
+| Arrays      | 3              |
 | Strings     | 0              |
 | Linked List | 0              |
 | Trees       | 0              |
-* ✅ Problems Solved: 2
-* 🔥 Current Streak: 2 Day
+* ✅ Problems Solved: 3
+* 🔥 Current Streak: 3 Day
 
 ---
 
@@ -30,6 +30,7 @@
 
 * [x] Two Sum
 * [x] Longest Common Prefix
+* [x] Remove Duplicates from Sorted Array
 
 ---
 
@@ -44,9 +45,17 @@
 - Understood importance of stopping when mismatch occurs
 - Improved understanding of nested loops and string indexing
 
-👉 Next: Hash Maps 🔥
+### Problem 3: Remove Duplicates from Sorted Array
+- Learned two-pointer technique
+- Understood in-place array modification
+- Improved thinking about optimized solutions
+
 
 ---
 ## 📅 Daily Log
 - Day 1: Two Sum ✅
 - Day 2: Longest Common Prefix ✅
+- Day3: Remove Duplicates from Sorted Array ✅
+
+---
+"Consistency beats intensity." 🔥

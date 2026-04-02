@@ -15,12 +15,12 @@
 
 | Topic        | Problems Solved |
 |-------------|----------------|
-| Arrays      | 3              |
+| Arrays      | 5              |
 | Strings     | 0              |
 | Linked List | 0              |
 | Trees       | 0              |
-* ✅ Problems Solved: 3
-* 🔥 Current Streak: 3 Day
+* ✅ Problems Solved: 5
+* 🔥 Current Streak: 5 Day
 
 ---
 
@@ -31,6 +31,8 @@
 * [x] Two Sum
 * [x] Longest Common Prefix
 * [x] Remove Duplicates from Sorted Array
+* [x] Remove Element
+* [x] Search Insert Position
 
 ---
 
@@ -56,6 +58,8 @@
 - Day 1: Two Sum ✅
 - Day 2: Longest Common Prefix ✅
 - Day3: Remove Duplicates from Sorted Array ✅
+- Day4: Remove Element✅
+- Day5: Search Insert Position✅
 
 ---
 "Consistency beats intensity." 🔥

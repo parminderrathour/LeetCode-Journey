@@ -15,12 +15,12 @@
 
 | Topic        | Problems Solved |
 |-------------|----------------|
-| Arrays      | 5              |
+| Arrays      | 6              |
 | Strings     | 0              |
 | Linked List | 0              |
 | Trees       | 0              |
-* ✅ Problems Solved: 5
-* 🔥 Current Streak: 5 Day
+* ✅ Problems Solved: 6
+* 🔥 Current Streak: 6 Day
 
 ---
 
@@ -33,6 +33,7 @@
 * [x] Remove Duplicates from Sorted Array
 * [x] Remove Element
 * [x] Search Insert Position
+* [x] Plus One
 
 ---
 
@@ -60,6 +61,7 @@
 - Day3: Remove Duplicates from Sorted Array ✅
 - Day4: Remove Element✅
 - Day5: Search Insert Position✅
+- Day6: Plus One✅
 
 ---
 "Consistency beats intensity." 🔥
